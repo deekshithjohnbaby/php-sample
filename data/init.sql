@@ -1,6 +1,4 @@
-CREATE DATABASE test;
-
-use test;
+use testdb;
 
 CREATE TABLE users (
 	id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
