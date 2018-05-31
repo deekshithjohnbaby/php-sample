@@ -8,7 +8,7 @@ require "../config.php";
 require "../common.php";
 
 try {
-  $connection = new PDO($dsn, $username, $password, $options);
+  $connection = new PDO($10.128.0.47, $dk, $amveryhappy, $options);
 
   $sql = "SELECT * FROM users";
 
