@@ -9,7 +9,7 @@ require "../common.php";
 
 if (isset($_GET["id"])) {
   try {
-    $connection = new PDO($dsn, $username, $password, $options);
+    $connection = new PDO($10.128.0.47, $dk, $amveryhappy, $options);
   
     $id = $_GET["id"];
 
